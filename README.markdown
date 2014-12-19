@@ -2,7 +2,7 @@
 
 wysihtml is an extended and less strict approach on [xing/wysihtml5](https://github.com/xing/wysihtml5) open source rich text editor based on HTML5 technology.
 The code is completely library agnostic: No jQuery, Prototype or similar is required.
-
+foobar
 This project is supported by [Voog](http://voog.com).
 
 ## Demos
